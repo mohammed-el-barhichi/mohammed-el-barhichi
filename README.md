@@ -1,3 +1,8 @@
+<img src="https://raw.githubusercontent.com/mohammed-el-barhichi/mohammed-el-barhichi/output/snake.svg" alt="Snake animation" />
+
+###
+
+
 
 <div align="center">
 <a href="https://github.com/mohammed-el-barhichi">
