@@ -1,7 +1,7 @@
 
 <div align="center">
 <a href="https://github.com/mohammed-el-barhichi">
-  <img height="150" align="center" src="https://streak-stats.demolab.com?user=mohammed-el-barhichi&theme=transparent" />
+  <img height="150" align="center" src="https://streak-stats.demolab.com?user=mohammed-el-barhichi&theme=transparent&card_width=400&card_height=150" />
 </a>
 <a href="https://github.com/mohammed-el-barhichi">
   <img height="150" align="center" src="https://github-readme-stats.vercel.app/api?username=mohammed-el-barhichi&theme=transparent&show_icons=true&hide=issues&show=prs_merged_percentage&rank_icon=github&include_all_commits=true" />
