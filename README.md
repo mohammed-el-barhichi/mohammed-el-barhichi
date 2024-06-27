@@ -1,7 +1,11 @@
-<img src="https://raw.githubusercontent.com/mohammed-el-barhichi/mohammed-el-barhichi/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mohammed-el-barhichi/mohammed-el-barhichi/output/snake.svg" alt="Snake animation" />
+</div>
+<div align="center">
+  <img src="https://profile-counter.glitch.me/mohammed-el-barhichi/count.svg?"  />
+</div>
 
 ###
-
 
 
 <div align="center">
