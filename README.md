@@ -1,12 +1,20 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/mohammed-el-barhichi/mohammed-el-barhichi/output/snake.svg" alt="Snake animation" />
-</div>
-<div align="center">
-  <img src="https://profile-counter.glitch.me/mohammed-el-barhichi/count.svg?"  />
-</div>
+<h1 align="left">Hey 👋 What's up?</h1>
 
 ###
 
+
+
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mohammed-el-barhichi/mohammed-el-barhichi/output/snake.svg" alt="Snake animation" />
+</div>
+
+
+###
+
+<h1 align="left">My stats</h1>
+
+###
 
 <div align="center">
 <a href="https://github.com/mohammed-el-barhichi">
@@ -23,3 +31,12 @@
   <img height="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammed-el-barhichi&theme=transparent&layout=donut-vertical" />
 </div>
 
+
+
+
+<div align="center">
+  Visitor count :
+</div>
+<div align="center">
+  <img src="https://profile-counter.glitch.me/mohammed-el-barhichi/count.svg?"  />
+</div>
