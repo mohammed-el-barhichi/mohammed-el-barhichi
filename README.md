@@ -1,6 +1,11 @@
-<h1 align="left">Hey 👋 I am Mohammed </h1>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=mohammed-el-barhichi" />
 
-###
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mohammed+El+Barhichi!;" />
+</h1>
+
+<h1 align="left"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me :</h1>
+
 
 
 
@@ -35,12 +40,6 @@
 
 
 
-<div align="center">
-  Visitor count :
-</div>
-<div align="center">
-  <img src="https://profile-counter.glitch.me/mohammed-el-barhichi/count.svg?"  />
-</div>
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mohammed-el-barhichi)
