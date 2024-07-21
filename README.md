@@ -6,7 +6,7 @@
 
 
 
-<h3 align="center">A passionate Data Science & AI Consultant</h3>
+<h3 align="center">A passionate AI Engineerig Student</h3>
 
 
 <h3 align="left">I master the following languages and tools:</h3>
